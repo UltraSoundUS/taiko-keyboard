@@ -16,6 +16,8 @@
   - **ロール処理ができない**
     - 片手で連続して面または縁を叩くことができない
 
+![キー割り当ての初期設定](img/old-keyboard-maps.svg)
+
 ## どうすればよい？
 
 - どうにかして 4 個のキーを面に、4 個のキーを縁に割り振りたい
@@ -23,15 +25,17 @@
   - ではどうするか
 - キーボードを押したときに、 **コントローラーを押したとみなす** ようにする
 
-ちゃんとロール処理できてる動画:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F6l3Ip0caBc?start=103" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![キー割り当ての理想状態](img/new-keyboard-maps.svg)
 
 ## つまり？
 
 - キーボードの F キーを押したとき、コントローラーの下十字キーを押したとみなす
   - 以上のような設定を 8 個のキーで設定する
 
-![Xbox gamepad](https://upload.wikimedia.org/wikipedia/commons/1/1b/Xbox_Controller.svg)
+![Xbox gamepad](img/xbox-remaps.svg)
+
+ちゃんとロール処理できてる動画:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F6l3Ip0caBc?start=103" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## どうやって実現する？
 
@@ -100,4 +104,5 @@ Controllers タブ → Test Xinput Controllers でテストができる
 ## 参考
 
 - コントローラー画像: [Xbox Controller.svg](https://commons.wikimedia.org/wiki/File:Xbox_Controller.svg)
+- キーボード画像: [KB_United_States.svg](https://commons.wikimedia.org/wiki/File:KB_United_States.svg)
 - djlastnight's Gaming Keyboard Splitter: [GitHub - djlastnight/KeyboardSplitterXbox: Creates up to 4 virtual xbox 360 controllers and feeds them via one or more keyboards.](https://github.com/djlastnight/KeyboardSplitterXbox)
