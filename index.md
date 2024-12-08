@@ -1,5 +1,8 @@
 # キーボードで太鼓の達人ドンダフルフェスティバルを快適にプレイする方法
 
+このページは下書きです。
+正式版は [キーボードで「太鼓の達人ドンダフルフェスティバル」を快適にプレイする方法｜UltraSound(US)](https://note.com/ultrasound_us/n/n5caa70f40775) に投稿しました。
+
 ## はじめに
 
 こんにちは！UltraSound(US) です。
@@ -138,3 +141,8 @@ Controllers タブ → Test Xinput Controllers でテストができる
 - コントローラー画像: [Xbox Controller.svg](https://commons.wikimedia.org/wiki/File:Xbox_Controller.svg)
 - キーボード画像: [KB_United_States.svg](https://commons.wikimedia.org/wiki/File:KB_United_States.svg)
 - djlastnight's Gaming Keyboard Splitter: [GitHub - djlastnight/KeyboardSplitterXbox: Creates up to 4 virtual xbox 360 controllers and feeds them via one or more keyboards.](https://github.com/djlastnight/KeyboardSplitterXbox)
+
+## 宣伝
+
+- 筆者の YouTube チャンネル: [UltraSound(US) - YouTube](https://www.youtube.com/@ultrasound_us)
+- 筆者の Twitter（現 X）: [UltraSound(US) (@UltraSound_US) / Twitter](https://twitter.com/UltraSound_US)
